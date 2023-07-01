@@ -1,0 +1,57 @@
+/* Reginald Cole */
+
+/* 8e9b90 ash gray
+    93c0a4 cambridge blue
+    b6c4a2 sage
+    d4cdab dutch white
+    dce2bd beige*/
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.column1, .column2, .column3 {
+    padding: 20px;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    margin: auto;
+    background-color: bisque;
+}
+
+footer {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.cont1 {
+    background-color: #93c0a4;
+}
+
+.cont2 {
+    background-color: #b6c4a2
+}
+
+.cont3 {
+    background-color: #d4cdab;
+}
