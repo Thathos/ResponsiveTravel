@@ -2,44 +2,25 @@
     h3 {
         text-align:center;
         font-size: 25px;
+        clear: both;
     }
 
-    img {
-        
-        width: 350px;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
+    .column1 {
+        float: left;
+        width: 50%;
+    }
+
+    .column2 {
+        float:right;
+        width: 50%;
     }
     
-
 }
 
-
 @media screen and (min-width: 876px) {
-    img {
-        float:none;
-        width:500px;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
-    }
+.column1, .column2, .column3 {
+    float: left;
+    width:33.33%;
+}
 
-    h3 {
-        text-align: center;
-        font-size:2em;
-    }
-
-    p {
-        font-size: 1.7em;
-    }
-
-    .column1, .column2, .column3 {
-        border: solid;
-        margin-bottom: 10px;
-    }
-
-    footer {
-        font-size: 25px;
-    }
 }

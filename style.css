@@ -16,9 +16,6 @@ h1 {
     text-align: center;
 }
 
-.column1, .column2, .column3 {
-    padding: 20px;
-}
 
 h3 {
     text-align: center;
@@ -32,6 +29,7 @@ body {
 
 footer {
     text-align: center;
+    clear:both;
 }
 
 p {
@@ -44,14 +42,5 @@ img {
     display: block;
 }
 
-.cont1 {
-    background-color: #93c0a4;
-}
 
-.cont2 {
-    background-color: #b6c4a2
-}
 
-.cont3 {
-    background-color: #d4cdab;
-}
