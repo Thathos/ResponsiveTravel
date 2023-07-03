@@ -1,3 +1,4 @@
+/* Reginald Cole */
 @media screen and (min-width: 568px) {
     h3 {
         text-align:center;
@@ -15,6 +16,9 @@
         width: 50%;
     }
     
+    header {
+        clear: both;
+    }
 }
 
 @media screen and (min-width: 876px) {
@@ -23,4 +27,5 @@
     width:33.33%;
 }
 
+    
 }

@@ -30,6 +30,9 @@ body {
 footer {
     text-align: center;
     clear:both;
+    border: solid black;
+    background-color: #d4cdab;
+    padding: 10px;
 }
 
 p {
@@ -41,6 +44,4 @@ img {
     margin-right: auto;
     display: block;
 }
-
-
 
